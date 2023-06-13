@@ -5,13 +5,9 @@
 	"name": "Test Fabric Don't Use",
 	"description": "Fabric version of \"Test Mod Don't Use\" for forge. Does not contain the same content as the forge version.\nAn experimental mod playground for features that may or may not be made into their own mods in the future.",
 	"authors": [
-		"Me!"
+		"SoraBorg"
 	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
+	"license": "Unlicensed",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
