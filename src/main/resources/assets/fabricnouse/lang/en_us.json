@@ -1,3 +1,6 @@
 {
-  "item.fabricnouse.citrine": "Citrine"
+  "item.fabricnouse.citrine": "Citrine",
+  "item.fabricnouse.raw_citrine": "Raw Citrine",
+
+  "itemgroup.citrine": "Citrine Item Group"
 }

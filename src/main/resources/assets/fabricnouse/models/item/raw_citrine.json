@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fabricnouse:item/citrine"
+    "layer0": "fabricnouse:item/raw_citrine"
   }
 }

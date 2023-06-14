@@ -1,6 +1,7 @@
 package com.soraborg.fabricnouse;
 
 import com.soraborg.fabricnouse.block.ModBlocks;
+import com.soraborg.fabricnouse.item.ModItemGroup;
 import com.soraborg.fabricnouse.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,7 +14,8 @@ public class TestFabricDontUse implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        ModItemGroup.registerItemGroups();
         ModItems.registerModItems();
-        ModBlocks.registerModBlocks();
+        //ModBlocks.registerModBlocks();
     }
 }
